@@ -34,6 +34,18 @@ New features, enhancements, and defect fixes are released frequently to deliver 
 
 - Fixed support for Unicode-based languages in Search Terms 
 
+# 15.8.41.0 (23 November 2022)
+
+**Features**
+
+- Generic Audio Data Source now supports multiple languages based on the Monitored Individuals participating in the communication and their specified language 
+- Added Language field to Monitored Individual allowing to assign IETF language code  
+- Added support for different Monitored Individual identifiers for different Data Sources 
+
+**Defect Fixes**
+
+- Fixed support for Unicode-based languages in Search Terms 
+
 # 15.7.7.0 (11 October 2022)
 
 **Features**
